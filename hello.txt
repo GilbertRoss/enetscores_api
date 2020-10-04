@@ -1,0 +1,256 @@
+<table width="100%" class="live-list-table diary-table">
+    <thead>
+    <tr>
+        <th width="100">League</th>
+                <th width="110">Kick-off Time</th>
+        <th class="text-right BR0" width="190">Home</th>
+        <th width="20" class="BR0">VS</th>
+        <th width="190">Away</th>
+        <th class="text-center" width="164">1X2</th>
+        <th class="text-center BR0" width="40">Home</th>
+        <th class="text-center BR0" width="50">Handicap</th>
+        <th class="text-center" width="40">Away</th>
+        <th class="text-center BR0" width="40">O</th>
+        <th class="text-center BR0" width="60">Goals</th>
+        <th class="text-center" width="40">U</th>
+        <th class="text-center BR0" width="40">O</th>
+        <th class="text-center BR0" width="45">Corners</th>
+        <th class="text-center" width="45">U</th>
+                <th class="text-center" width="26"><img src="/assets/images/icons/iconAnal0.png" width="14" class="MT-3" title="Analysis" alt="Analysis"></th>
+                <th class="text-center" width="26"><i class="fa fa-star f18 fav-icon" title="Favorite"></i></th>
+    </tr>
+    </thead>
+    <tbody>
+                                                                        <tr class="page-1">
+            <td class="bg1"><a>Barclays PL</a></td>
+                        <td>20/10/17 19:30</td>
+            <td class="text-right BR0">
+                                <span class="leagueRank">[12]</span>
+                                <a href="/team/459">
+                                            Everton
+                                    </a>
+            </td>
+            <td class="BR0">VS</td>
+            <td class="text-left">
+                <a href="/team/460">Liverpool</a><span class="leagueRank">[1]</span>                                            </td>
+            <td class="text-center"><a href="/match_4_in_1/773428" rel="nofollow">4.200 / 4.000 / 1.727</a></td>
+            <td class="text-center yellowTd BR0">1.900</td>
+            <td class="text-center yellowTd BR0"><a href="/match_4_in_1/773428">+0.75</a></td>
+            <td class="text-center yellowTd">2.000</td>
+            <td class="text-center BR0">1.860</td>
+            <td class="text-center BR0"><a href="/match_4_in_1/773428">3.0</a></td>
+            <td class="text-center">2.040</td>
+            <td class="text-center yellowTd BR0">-</td>
+            <td class="text-center yellowTd BR0"><a href="/match_4_in_1/773428">-</a></td>
+            <td class="text-center yellowTd">-</td>
+                        <td class="text-center"><a href="/match/773428"><img src="/assets/images/icons/iconAnal1.png" width="14" class="MT-3" title="Analysis" alt="Analysis" "></a></td>
+                        <td class="text-center"><a class="fav-icon loginPopupBt" title="Add as favorite"><i class="fa fa-star-o"></i></a></td>
+        </tr>
+
+                    <tr class="page-1">
+            <td class="bg1"><a>Barclays PL</a></td>
+                        <td>20/10/17 22:00</td>
+            <td class="text-right BR0">
+                                <span class="leagueRank">[4]</span>
+                                <a href="/team/6465">
+                                            Chelsea
+                                    </a>
+            </td>
+            <td class="BR0">VS</td>
+            <td class="text-left">
+                <a href="/team/6267">Southampton</a><span class="leagueRank">[11]</span>                                            </td>
+            <td class="text-center"><a href="/match_4_in_1/773426" rel="nofollow">1.500 / 4.500 / 6.000</a></td>
+            <td class="text-center yellowTd BR0">1.850</td>
+            <td class="text-center yellowTd BR0"><a href="/match_4_in_1/773426">-1.0</a></td>
+            <td class="text-center yellowTd">2.050</td>
+            <td class="text-center BR0">2.100</td>
+            <td class="text-center BR0"><a href="/match_4_in_1/773426">3.25</a></td>
+            <td class="text-center">1.800</td>
+            <td class="text-center yellowTd BR0">-</td>
+            <td class="text-center yellowTd BR0"><a href="/match_4_in_1/773426">-</a></td>
+            <td class="text-center yellowTd">-</td>
+                        <td class="text-center"><a href="/match/773426"><img src="/assets/images/icons/iconAnal1.png" width="14" class="MT-3" title="Analysis" alt="Analysis" "></a></td>
+                        <td class="text-center"><a class="fav-icon loginPopupBt" title="Add as favorite"><i class="fa fa-star-o"></i></a></td>
+        </tr>
+
+                    <tr class="page-1">
+            <td class="bg1"><a>Barclays PL</a></td>
+                        <td>20/10/17 22:00</td>
+            <td class="text-right BR0">
+                                <span class="leagueRank">[13]</span>
+                                <a href="/team/149">
+                                            Newcastle
+                                    </a>
+            </td>
+            <td class="BR0">VS</td>
+            <td class="text-left">
+                <a href="/team/6664">Man Utd</a><span class="leagueRank">[3]</span>                                            </td>
+            <td class="text-center"><a href="/match_4_in_1/773431" rel="nofollow">4.500 / 3.800 / 1.727</a></td>
+            <td class="text-center yellowTd BR0">1.880</td>
+            <td class="text-center yellowTd BR0"><a href="/match_4_in_1/773431">+0.75</a></td>
+            <td class="text-center yellowTd">2.020</td>
+            <td class="text-center BR0">1.910</td>
+            <td class="text-center BR0"><a href="/match_4_in_1/773431">2.5</a></td>
+            <td class="text-center">1.990</td>
+            <td class="text-center yellowTd BR0">-</td>
+            <td class="text-center yellowTd BR0"><a href="/match_4_in_1/773431">-</a></td>
+            <td class="text-center yellowTd">-</td>
+                        <td class="text-center"><a href="/match/773431"><img src="/assets/images/icons/iconAnal1.png" width="14" class="MT-3" title="Analysis" alt="Analysis" "></a></td>
+                        <td class="text-center"><a class="fav-icon loginPopupBt" title="Add as favorite"><i class="fa fa-star-o"></i></a></td>
+        </tr>
+
+                    <tr class="page-1">
+            <td class="bg1"><a>Barclays PL</a></td>
+                        <td>20/10/17 22:00</td>
+            <td class="text-right BR0">
+                                <a href="/team/838">
+                                            West Brom
+                                    </a>
+            </td>
+            <td class="BR0">VS</td>
+            <td class="text-left">
+                <a href="/team/6546">Burnley</a>                                            </td>
+            <td class="text-center"><a href="/match_4_in_1/773433" rel="nofollow">2.400 / 3.200 / 3.000</a></td>
+            <td class="text-center yellowTd BR0">1.760</td>
+            <td class="text-center yellowTd BR0"><a href="/match_4_in_1/773433">0.0</a></td>
+            <td class="text-center yellowTd">2.155</td>
+            <td class="text-center BR0">1.930</td>
+            <td class="text-center BR0"><a href="/match_4_in_1/773433">2.25</a></td>
+            <td class="text-center">1.970</td>
+            <td class="text-center yellowTd BR0">-</td>
+            <td class="text-center yellowTd BR0"><a href="/match_4_in_1/773433">-</a></td>
+            <td class="text-center yellowTd">-</td>
+                        <td class="text-center"><a href="/match/773433"><img src="/assets/images/icons/iconAnal1.png" width="14" class="MT-3" title="Analysis" alt="Analysis" "></a></td>
+                        <td class="text-center"><a class="fav-icon loginPopupBt" title="Add as favorite"><i class="fa fa-star-o"></i></a></td>
+        </tr>
+
+                    <tr class="page-1">
+            <td class="bg1"><a>Barclays PL</a></td>
+                        <td>20/10/17 22:00</td>
+            <td class="text-right BR0">
+                                <span class="leagueRank">[5]</span>
+                                <a href="/team/748">
+                                            Leicester
+                                    </a>
+            </td>
+            <td class="BR0">VS</td>
+            <td class="text-left">
+                <a href="/team/6387">Aston Villa</a><span class="leagueRank">[17]</span>                                            </td>
+            <td class="text-center"><a href="/match_4_in_1/773432" rel="nofollow">1.700 / 3.800 / 4.750</a></td>
+            <td class="text-center yellowTd BR0">1.990</td>
+            <td class="text-center yellowTd BR0"><a href="/match_4_in_1/773432">-0.75</a></td>
+            <td class="text-center yellowTd">1.910</td>
+            <td class="text-center BR0">1.840</td>
+            <td class="text-center BR0"><a href="/match_4_in_1/773432">2.75</a></td>
+            <td class="text-center">2.060</td>
+            <td class="text-center yellowTd BR0">-</td>
+            <td class="text-center yellowTd BR0"><a href="/match_4_in_1/773432">-</a></td>
+            <td class="text-center yellowTd">-</td>
+                        <td class="text-center"><a href="/match/773432"><img src="/assets/images/icons/iconAnal1.png" width="14" class="MT-3" title="Analysis" alt="Analysis" "></a></td>
+                        <td class="text-center"><a class="fav-icon loginPopupBt" title="Add as favorite"><i class="fa fa-star-o"></i></a></td>
+        </tr>
+
+                    <tr class="page-1">
+            <td class="bg1"><a>Barclays PL</a></td>
+                        <td>20/10/17 22:00</td>
+            <td class="text-right BR0">
+                                <a href="/team/6487">
+                                            Sheff Utd
+                                    </a>
+            </td>
+            <td class="BR0">VS</td>
+            <td class="text-left">
+                <a href="/team/736">Fulham</a>                                            </td>
+            <td class="text-center"><a href="/match_4_in_1/773434" rel="nofollow">1.909 / 3.400 / 4.000</a></td>
+            <td class="text-center yellowTd BR0">1.990</td>
+            <td class="text-center yellowTd BR0"><a href="/match_4_in_1/773434">-0.5</a></td>
+            <td class="text-center yellowTd">1.910</td>
+            <td class="text-center BR0">2.020</td>
+            <td class="text-center BR0"><a href="/match_4_in_1/773434">2.25</a></td>
+            <td class="text-center">1.880</td>
+            <td class="text-center yellowTd BR0">-</td>
+            <td class="text-center yellowTd BR0"><a href="/match_4_in_1/773434">-</a></td>
+            <td class="text-center yellowTd">-</td>
+                        <td class="text-center"><a href="/match/773434"><img src="/assets/images/icons/iconAnal1.png" width="14" class="MT-3" title="Analysis" alt="Analysis" "></a></td>
+                        <td class="text-center"><a class="fav-icon loginPopupBt" title="Add as favorite"><i class="fa fa-star-o"></i></a></td>
+        </tr>
+
+                    <tr class="page-1">
+            <td class="bg1"><a>Barclays PL</a></td>
+                        <td>20/10/18 00:30</td>
+            <td class="text-right BR0">
+                                <span class="leagueRank">[2]</span>
+                                <a href="/team/151">
+                                            Man City
+                                    </a>
+            </td>
+            <td class="BR0">VS</td>
+            <td class="text-left">
+                <a href="/team/6493">Arsenal</a><span class="leagueRank">[8]</span>                                            </td>
+            <td class="text-center"><a href="/match_4_in_1/773429" rel="nofollow">1.363 / 5.000 / 7.500</a></td>
+            <td class="text-center yellowTd BR0">1.870</td>
+            <td class="text-center yellowTd BR0"><a href="/match_4_in_1/773429">-1.25</a></td>
+            <td class="text-center yellowTd">2.030</td>
+            <td class="text-center BR0">1.890</td>
+            <td class="text-center BR0"><a href="/match_4_in_1/773429">3.25</a></td>
+            <td class="text-center">2.010</td>
+            <td class="text-center yellowTd BR0">-</td>
+            <td class="text-center yellowTd BR0"><a href="/match_4_in_1/773429">-</a></td>
+            <td class="text-center yellowTd">-</td>
+                        <td class="text-center"><a href="/match/773429"><img src="/assets/images/icons/iconAnal1.png" width="14" class="MT-3" title="Analysis" alt="Analysis" "></a></td>
+                        <td class="text-center"><a class="fav-icon loginPopupBt" title="Add as favorite"><i class="fa fa-star-o"></i></a></td>
+        </tr>
+
+                    <tr class="page-1">
+            <td class="bg1"><a>Barclays PL</a></td>
+                        <td>20/10/18 21:00</td>
+            <td class="text-right BR0">
+                                <span class="leagueRank">[14]</span>
+                                <a href="/team/6325">
+                                            Crystal Palace
+                                    </a>
+            </td>
+            <td class="BR0">VS</td>
+            <td class="text-left">
+                <a href="/team/5778">Brighton</a><span class="leagueRank">[15]</span>                                            </td>
+            <td class="text-center"><a href="/match_4_in_1/773430" rel="nofollow">2.600 / 3.250 / 2.750</a></td>
+            <td class="text-center yellowTd BR0">1.920</td>
+            <td class="text-center yellowTd BR0"><a href="/match_4_in_1/773430">0.0</a></td>
+            <td class="text-center yellowTd">1.980</td>
+            <td class="text-center BR0">1.980</td>
+            <td class="text-center BR0"><a href="/match_4_in_1/773430">2.25</a></td>
+            <td class="text-center">1.920</td>
+            <td class="text-center yellowTd BR0">-</td>
+            <td class="text-center yellowTd BR0"><a href="/match_4_in_1/773430">-</a></td>
+            <td class="text-center yellowTd">-</td>
+                        <td class="text-center"><a href="/match/773430"><img src="/assets/images/icons/iconAnal1.png" width="14" class="MT-3" title="Analysis" alt="Analysis" "></a></td>
+                        <td class="text-center"><a class="fav-icon loginPopupBt" title="Add as favorite"><i class="fa fa-star-o"></i></a></td>
+        </tr>
+
+                    <tr class="page-1">
+            <td class="bg1"><a>Barclays PL</a></td>
+                        <td>20/10/20 03:00</td>
+            <td class="text-right BR0">
+                                <a href="/team/6185">
+                                            Leeds
+                                    </a>
+            </td>
+            <td class="BR0">VS</td>
+            <td class="text-left">
+                <a href="/team/6039">Wolverhampton</a>                                            </td>
+            <td class="text-center"><a href="/match_4_in_1/773427" rel="nofollow">-</a></td>
+            <td class="text-center yellowTd BR0">-</td>
+            <td class="text-center yellowTd BR0"><a href="/match_4_in_1/773427">-</a></td>
+            <td class="text-center yellowTd">-</td>
+            <td class="text-center BR0">-</td>
+            <td class="text-center BR0"><a href="/match_4_in_1/773427">-</a></td>
+            <td class="text-center">-</td>
+            <td class="text-center yellowTd BR0">-</td>
+            <td class="text-center yellowTd BR0"><a href="/match_4_in_1/773427">-</a></td>
+            <td class="text-center yellowTd">-</td>
+                        <td class="text-center"><a href="/match/773427"><img src="/assets/images/icons/iconAnal0.png" width="14" class="MT-3" title="Analysis" alt="Analysis"></a></td>
+                        <td class="text-center"><a class="fav-icon loginPopupBt" title="Add as favorite"><i class="fa fa-star-o"></i></a></td>
+        </tr>
+
+        </tbody>
+</table>
