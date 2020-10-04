@@ -1,0 +1,23 @@
+{
+  "name": "enet_scores_api",
+  "version": "1.0.0",
+  "description": "a simple api to get soccers results",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GilbertRoss/enetscores_api.git"
+  },
+  "author": "GilbertRoss",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GilbertRoss/enetscores_api/issues"
+  },
+  "homepage": "https://github.com/GilbertRoss/enetscores_api#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "request": "^2.88.2"
+  }
+}
